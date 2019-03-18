@@ -1,0 +1,25 @@
+_repo: The-York-Problem_59036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kastle, Herbert D.
+    aliases:
+    - Castle, Herb
+    - Kastle, Herbert David
+    birthdate: 1924
+    deathdate: 1987
+    gutenberg_agent_id: '26307'
+    url: http://www.gutenberg.org/2009/agents/26307
+description: ''
+gutenberg_issued: '2019-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The York Problem
+url: http://www.gutenberg.org/ebooks/59036
