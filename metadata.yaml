@@ -1,5 +1,8 @@
 _repo: The-York-Problem_59036
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59036-h/images/cover.jpg
 creator:
   author:
     agent_name: Kastle, Herbert D.
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '26307'
     url: http://www.gutenberg.org/2009/agents/26307
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59036#The-York-Problem
 gutenberg_issued: '2019-03-08'
 gutenberg_type: Text
 identifiers:
